@@ -1,8 +1,9 @@
-# React + Vite
+# NewsApp
+- It is a news app ,you can see many news according to your interested category.
+- This app also has a Dark Mode feature and also a loading bar which gives user a loading satisfaction.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# To start the app
+- write `npm run dev` in your terminal
+- write `npm run build` in your terminal if you don't have react in your system.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+MADE BY - ABDAL AHMAD KHAN 
